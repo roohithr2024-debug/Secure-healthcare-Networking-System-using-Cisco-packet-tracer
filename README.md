@@ -4,3 +4,6 @@ A Cisco Packet Tracer simulation of a HIPAA-compliant healthcare network featuri
 Output implementation:
 <img width="1358" height="797" alt="image" src="https://github.com/user-attachments/assets/5edb43a7-ea5a-40ad-a9eb-d4a101b4ec32" />
 
+<img width="1919" height="827" alt="image" src="https://github.com/user-attachments/assets/9e397b0c-5d1b-45b5-9e27-7a00023d4691" />
+
+
