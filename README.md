@@ -144,10 +144,6 @@ ping 8.8.8.8             # Test internet access via NAT
 # Test SSH to a router or switch:
 ssh -l admin 192.168.50.1
 
-# Verify ACL blocking:
-# Attempt to ping IT Server VLAN (192.168.40.x) from Nurses VLAN
-# Expected result: Request timed out (denied by ACL)
-
 
 ---
 
